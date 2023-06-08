@@ -1,6 +1,6 @@
 pipeline{
 	environment{
-		registry = "maya24/iseimage"
+		registry = "maya24/myimage"
 		registryCredential = 'dockerid'
 		dockerImage = ''
 	}
